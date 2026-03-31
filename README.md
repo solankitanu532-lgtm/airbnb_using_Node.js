@@ -62,11 +62,3 @@ Airbnb-Clone/
 - Image Upload Feature
 
 ---
-
-## 👩‍💻 Author
-
-**Tanu Solanki**  
-BTech – Information Technology  
-Aspiring Software Engineer  
-
-📧 Email: solankitanu564@gmail.com
